@@ -1,0 +1,7 @@
+{
+  "ios_version": "1.0.0",
+  "ios_force_update": false,
+  "ios_download_url": "你的AppStore链接",
+  "announcement": "岁月棋牌正式开业啦！",
+  "ad_id_ios": "你的AdMob广告位ID"
+}
