@@ -1,6 +1,6 @@
 {
-  "ios_version": "1.0.0",
-  "ios_force_update": false,
+  "ios_version": "2.0.0",
+  "ios_force_update": true,
   "ios_download_url": "https://apps.apple.com/app/id6762603724",
   "ad_id_ios_rewarded": "ca-app-pub-3940256099942544/1712420021",
   "ad_id_ios_interstitial": "ca-app-pub-3940256099942544/4411468910",
