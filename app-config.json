@@ -1,7 +1,10 @@
 {
   "ios_version": "1.0.0",
   "ios_force_update": false,
-  "ios_download_url": "你的AppStore链接",
-  "announcement": "岁月棋牌正式开业啦！",
-  "ad_id_ios": "你的AdMob广告位ID"
+  "ios_download_url": "https://apps.apple.com/app/idXXXXXXXXX",
+  "show_ads": true,
+  "ad_id_ios_rewarded": "ca-app-pub-3940256099942544/1712420021",
+  "ad_id_ios_interstitial": "ca-app-pub-3940256099942544/4411468910",
+  "announcement": "岁月棋牌正式开业啦！祝各位大叔大妈牌运亨通，开心每一天！",
+  "health_tip": "打牌虽好，可不要贪杯哦！连续游玩超过 2 小时，请站起来活动活动筋骨，喝杯热茶。"
 }
