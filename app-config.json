@@ -2,6 +2,5 @@
   "version": "1.0.0",
   "ios_download_url": "https://apps.apple.com/app/id6762603724",
   "android_download_url": "https://www.pgyer.com/your_pgyer_code",
-  "announcement": "岁月卡牌！祝各位牌运亨通，开心每一天！",
-  "announcement_en": "\"Chronicle Cards\"! Wishing you all great luck at the table and happiness every day!"
+  "force_update": false
 }
